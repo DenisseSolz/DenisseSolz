@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./assets/header.svg" alt="Denisse Solorzano - Software Engineering Student" width="100%" />
+</div>
 
 # Hi there! I'm Denisse 👋
 
