@@ -2,11 +2,7 @@
   <img src="./assets/header.svg" alt="Denisse Solorzano - Software Engineering Student" width="100%" />
 </div>
 
-# Hi there! I'm Denisse 👋
-
-### Software Engineering Student | Frontend & Full-Stack Developer
-
-I'm a Software Engineering student at **Universidad de Colima, Mexico**, passionate about building intuitive, responsive, and user-friendly web applications.
+### I'm a Software Engineering student passionate about designing and developing efficient, scalable, and functional software solutions.
 
 I enjoy transforming ideas into functional digital solutions, collaborating with development teams, and continuously learning new technologies.
 
@@ -47,19 +43,19 @@ I enjoy transforming ideas into functional digital solutions, collaborating with
 
 ### 🚀 Projects
 
-** Appliance Repair Service Management Platform**
+**Appliance Repair Service Management Platform**
 
 Developed the customer-facing frontend for a business platform focused on scheduling appliance repair services, including appointment booking, user profiles, and payment interfaces.
 
 `React` `TypeScript` `Tailwind CSS` `Agile Collaboration`
 
-** Multi-Branch Inventory Management System — In Progress**
+**Multi-Branch Inventory Management System — In Progress**
 
 Developing an inventory management solution for a food business with three branches, focusing on backend architecture, stock tracking, and inventory operations.
 
 `Node.js` `Express` `PostgreSQL` `Prisma`
 
-** Mammography Severity Classification System — In Progress**
+**Mammography Severity Classification System — In Progress**
 
 Contributing to a research project focused on classifying mammography images as normal, benign, or malignant, with a focus on frontend development and user experience.
 
