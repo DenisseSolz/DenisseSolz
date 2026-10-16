@@ -1,0 +1,36 @@
+
+<svg width="1000" height="240" viewBox="0 0 1000 240"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1000" height="240" rx="18" fill="#10121D"/>
+
+  <text x="500" y="80"
+        text-anchor="middle"
+        fill="#F0B6D2"
+        font-family="Arial, sans-serif"
+        font-size="42"
+        font-weight="bold">
+    Denisse Solorzano
+  </text>
+
+  <text x="500" y="127"
+        text-anchor="middle"
+        fill="#E4E7F1"
+        font-family="Arial, sans-serif"
+        font-size="23">
+    Software Engineering Student | Software Developer
+  </text>
+
+  <text x="500" y="169"
+        text-anchor="middle"
+        fill="#B8A5F4"
+        font-family="Arial, sans-serif"
+        font-size="20">
+    Developing practical, user-centered software solutions.
+  </text>
+
+  <line x1="300" y1="195" x2="700" y2="195"
+        stroke="#B8A5F4" stroke-width="2"
+        stroke-opacity="0.5"/>
+
+</svg>
